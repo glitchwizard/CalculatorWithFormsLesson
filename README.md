@@ -1,12 +1,12 @@
 # _Calculator_
 
-#### This is Quinn's calculator that i made with the help of Epicodus! August 28nd 2018
+#### This is Quinn and Charley's calculator that we made with the help of Epicodus! Sept 12th 2018
 
-#### By Quinn Miller
+#### By Quinn Miller and Charley McGowan
 
 ## Description
 
-This is a calculator i made to test out java script.
+This is a calculator made to test out java script.
 
 ## Setup/Installation Requirements
 
@@ -17,13 +17,12 @@ This is a calculator i made to test out java script.
 
 ## Known Bugs
 
-Git is funky on my home computer and I was having trouble pushing things to repositories. I got it to work but it says the author of the commit is quinnrobepicodus (the account name) rather than my name (Quinn).
-This is a work in progress, so if you find any bugs please let me know at the email address below.
+No Bugs yet....
 
 ## Support and contact details
 
-I'm still learning so feel free to contact me with any suggestions or questions.  
-email: millerquinn66@gmail.com
+Still learning so feel free to contact me with any suggestions or questions.  
+email: millerquinn66@gmail.com or charley@gmail.com
 
 ## Technologies Used
 * Git
@@ -38,7 +37,7 @@ email: millerquinn66@gmail.com
 
 ### License
 
-*Copyright (c) 2018 Quinn Miller*
+*Copyright (c) 2018 Quinn Miller // Charley McGowan*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -58,4 +57,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) 2018 **Quinn Miller**
+Copyright (c) 2018 **Quinn Miller // Charley McGowan**
